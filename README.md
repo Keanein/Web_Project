@@ -30,7 +30,7 @@ This system automates event attendance recording for the College of Science Stud
 - Locate the configuration file at: attendance-backend\src\main\resources\application.properties
 - Edit the following values based on your local database:
 
-spring.datasource.username=YOUR_DB_USERNAME
+spring.datasource.username=YOUR_DB_USERNAME 
 spring.datasource.password=YOUR_DB_PASSWORD
 
 The system will function properly after importing the database and updating the credentials.
